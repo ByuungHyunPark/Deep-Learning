@@ -7,14 +7,18 @@
 ---
 
 ## 책 시리즈 소개
-* [『밑바닥부터 시작하는 딥러닝 ①』 깃허브 저장소](https://github.com/WegraLee/deep-learning-from-scratch)
-  * __합성곱 신경망(CNN)과 이미지 처리__
+- [『밑바닥부터 시작하는 딥러닝 ①』 깃허브 저장소](https://github.com/WegraLee/deep-learning-from-scratch)
+    -  __합성곱 신경망(CNN)과 이미지 처리__
+
 <br>
-* [『밑바닥부터 시작하는 딥러닝 ②』 깃허브 저장소](https://github.com/WegraLee/deep-learning-from-scratch-2)
-  * __순환 신경망(RNN)과 자연어 처리__
+
+- [『밑바닥부터 시작하는 딥러닝 ②』 깃허브 저장소](https://github.com/WegraLee/deep-learning-from-scratch-2)
+    - __순환 신경망(RNN)과 자연어 처리__
+
 <br>
-* [『밑바닥부터 시작하는 딥러닝 ③』 깃허브 저장소](https://github.com/WegraLee/deep-learning-from-scratch-3)
-  * __동적 계산 그래프와 딥러닝 프레임워크__
+
+- [『밑바닥부터 시작하는 딥러닝 ③』 깃허브 저장소](https://github.com/WegraLee/deep-learning-from-scratch-3)
+    - __동적 계산 그래프와 딥러닝 프레임워크__
 
 
 
